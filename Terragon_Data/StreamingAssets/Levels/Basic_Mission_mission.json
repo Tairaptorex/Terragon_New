@@ -1,0 +1,5014 @@
+{
+    "tiles": [
+        {
+            "q": 11,
+            "r": 0,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 0,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 0,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 0,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 0,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 0,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 0,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 0,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 1,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 1,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 1,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 1,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 1,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 1,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 1,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 1,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 1,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 2,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 2,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 2,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 2,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 2,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 2,
+            "tileType": "Impassable Mountian",
+            "category": "ImpassableMountain",
+            "isPassable": false,
+            "movementCost": 9,
+            "coverage": 1.0,
+            "visibility": 0.0
+        },
+        {
+            "q": 16,
+            "r": 2,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 2,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 2,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 2,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 3,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 3,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 3,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 3,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 3,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 3,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 15,
+            "r": 3,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 3,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 3,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 3,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 3,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 4,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 4,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 4,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 4,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 4,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 4,
+            "tileType": "Mountian",
+            "category": "Mountain",
+            "isPassable": true,
+            "movementCost": 4,
+            "coverage": 0.5,
+            "visibility": 0.699999988079071
+        },
+        {
+            "q": 15,
+            "r": 4,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 4,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 4,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 4,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 4,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 5,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 5,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 5,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 5,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 5,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 5,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 5,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 5,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 5,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 5,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 5,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 6,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 6,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 6,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 6,
+            "tileType": "Beach",
+            "category": "Start",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 6,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 6,
+            "tileType": "Impassable Mountian",
+            "category": "ImpassableMountain",
+            "isPassable": false,
+            "movementCost": 9,
+            "coverage": 1.0,
+            "visibility": 0.0
+        },
+        {
+            "q": 14,
+            "r": 6,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 6,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 6,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 6,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 6,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 7,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 7,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 7,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 7,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 7,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 7,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 7,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 7,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 7,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 7,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 7,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 7,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 7,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 7,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 8,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 8,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 13,
+            "r": 8,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 14,
+            "r": 8,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 8,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 9,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 9,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 9,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 9,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 10,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 10,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 10,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 10,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 10,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 10,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 2,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 11,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 11,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 11,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 11,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 11,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 11,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 11,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 11,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 11,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 11,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 2,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 12,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 12,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 12,
+            "tileType": "Impassable Mountian",
+            "category": "ImpassableMountain",
+            "isPassable": false,
+            "movementCost": 9,
+            "coverage": 1.0,
+            "visibility": 0.0
+        },
+        {
+            "q": 8,
+            "r": 12,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 12,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 12,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 12,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 12,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 12,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 12,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 12,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 12,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 1,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 2,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 13,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 13,
+            "tileType": "Impassable Mountian",
+            "category": "ImpassableMountain",
+            "isPassable": false,
+            "movementCost": 9,
+            "coverage": 1.0,
+            "visibility": 0.0
+        },
+        {
+            "q": 6,
+            "r": 13,
+            "tileType": "Mountian",
+            "category": "Mountain",
+            "isPassable": true,
+            "movementCost": 4,
+            "coverage": 0.5,
+            "visibility": 0.699999988079071
+        },
+        {
+            "q": 7,
+            "r": 13,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 13,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 13,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 13,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 13,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 13,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 13,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 20,
+            "r": 13,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 13,
+            "tileType": "Impassable Mountian",
+            "category": "ImpassableMountain",
+            "isPassable": false,
+            "movementCost": 9,
+            "coverage": 1.0,
+            "visibility": 0.0
+        },
+        {
+            "q": 22,
+            "r": 13,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 13,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 2,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 14,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 14,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 14,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 14,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 14,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 14,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 14,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 14,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 20,
+            "r": 14,
+            "tileType": "Impassable Mountian",
+            "category": "ImpassableMountain",
+            "isPassable": false,
+            "movementCost": 9,
+            "coverage": 1.0,
+            "visibility": 0.0
+        },
+        {
+            "q": 21,
+            "r": 14,
+            "tileType": "Mountian",
+            "category": "Mountain",
+            "isPassable": true,
+            "movementCost": 4,
+            "coverage": 0.5,
+            "visibility": 0.699999988079071
+        },
+        {
+            "q": 22,
+            "r": 14,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 26,
+            "r": 14,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 1,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 2,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 15,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 15,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 15,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 15,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 15,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 15,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 15,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 15,
+            "tileType": "Impassable Mountian",
+            "category": "ImpassableMountain",
+            "isPassable": false,
+            "movementCost": 9,
+            "coverage": 1.0,
+            "visibility": 0.0
+        },
+        {
+            "q": 20,
+            "r": 15,
+            "tileType": "Mountian",
+            "category": "Mountain",
+            "isPassable": true,
+            "movementCost": 4,
+            "coverage": 0.5,
+            "visibility": 0.699999988079071
+        },
+        {
+            "q": 21,
+            "r": 15,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 15,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 15,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 26,
+            "r": 15,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 2,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 16,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 16,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 16,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 16,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 9,
+            "r": 16,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 16,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 16,
+            "tileType": "Mountian",
+            "category": "Mountain",
+            "isPassable": true,
+            "movementCost": 4,
+            "coverage": 0.5,
+            "visibility": 0.699999988079071
+        },
+        {
+            "q": 20,
+            "r": 16,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 21,
+            "r": 16,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 16,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 16,
+            "tileType": "Mountian",
+            "category": "Mountain",
+            "isPassable": true,
+            "movementCost": 4,
+            "coverage": 0.5,
+            "visibility": 0.699999988079071
+        },
+        {
+            "q": 24,
+            "r": 16,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 26,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 27,
+            "r": 16,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 2,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 17,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 17,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 17,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 17,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 17,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 17,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 17,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 17,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 17,
+            "tileType": "Mountian",
+            "category": "Mountain",
+            "isPassable": true,
+            "movementCost": 4,
+            "coverage": 0.5,
+            "visibility": 0.699999988079071
+        },
+        {
+            "q": 22,
+            "r": 17,
+            "tileType": "Mountian",
+            "category": "Mountain",
+            "isPassable": true,
+            "movementCost": 4,
+            "coverage": 0.5,
+            "visibility": 0.699999988079071
+        },
+        {
+            "q": 23,
+            "r": 17,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 24,
+            "r": 17,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 26,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 27,
+            "r": 17,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 18,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 18,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 18,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 18,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 18,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 18,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 18,
+            "tileType": "Impassable Mountian",
+            "category": "ImpassableMountain",
+            "isPassable": false,
+            "movementCost": 9,
+            "coverage": 1.0,
+            "visibility": 0.0
+        },
+        {
+            "q": 21,
+            "r": 18,
+            "tileType": "Mountian",
+            "category": "Mountain",
+            "isPassable": true,
+            "movementCost": 4,
+            "coverage": 0.5,
+            "visibility": 0.699999988079071
+        },
+        {
+            "q": 22,
+            "r": 18,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 18,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 24,
+            "r": 18,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 25,
+            "r": 18,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 26,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 27,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 28,
+            "r": 18,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 19,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 19,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 19,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 19,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 19,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 19,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 19,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 19,
+            "tileType": "Impassable Mountian",
+            "category": "ImpassableMountain",
+            "isPassable": false,
+            "movementCost": 9,
+            "coverage": 1.0,
+            "visibility": 0.0
+        },
+        {
+            "q": 21,
+            "r": 19,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 22,
+            "r": 19,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 19,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 19,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 26,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 27,
+            "r": 19,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 20,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 20,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 11,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 20,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 20,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 20,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 20,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 20,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 20,
+            "tileType": "Impassable Mountian",
+            "category": "ImpassableMountain",
+            "isPassable": false,
+            "movementCost": 9,
+            "coverage": 1.0,
+            "visibility": 0.0
+        },
+        {
+            "q": 21,
+            "r": 20,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 22,
+            "r": 20,
+            "tileType": "Forest",
+            "category": "Forest",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.4000000059604645,
+            "visibility": 0.5
+        },
+        {
+            "q": 23,
+            "r": 20,
+            "tileType": "Plains",
+            "category": "Plains",
+            "isPassable": true,
+            "movementCost": 1,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 20,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 26,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 27,
+            "r": 20,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 3,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 21,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 21,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 12,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 21,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 21,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 21,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 21,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 21,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 21,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 21,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 21,
+            "tileType": "Beach",
+            "category": "Beach",
+            "isPassable": true,
+            "movementCost": 2,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 26,
+            "r": 21,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 10,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 26,
+            "r": 22,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 4,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 13,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 14,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 23,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 5,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 6,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 7,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 8,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 9,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 15,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 16,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 17,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 18,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 19,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 20,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 21,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 22,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 23,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 24,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        },
+        {
+            "q": 25,
+            "r": 24,
+            "tileType": "Shallow Water",
+            "category": "ShallowWater",
+            "isPassable": true,
+            "movementCost": 3,
+            "coverage": 0.0,
+            "visibility": 1.0
+        }
+    ],
+    "gridWidth": 30,
+    "gridHeight": 30,
+    "generationSeed": 61849,
+    "islandRadius": 20,
+    "missionName": "Basic_Mission",
+    "missionDescription": "",
+    "budget": 280,
+    "maxCharacters": 3,
+    "enemySpawnSeed": 160,
+    "structureSeed": 260,
+    "totalDays": 4,
+    "victoryMessage": "All threats neutralised. Extraction complete.",
+    "failMessageDeath": "All operatives lost. Mission failed.",
+    "failMessageNuke": "Time expired. Nuclear sterilisation in effect.",
+    "extractionQ": 20,
+    "extractionR": 17,
+    "commands": [
+    "spawn_enemy 7 15 Basic_Drone enemy_a",
+    "spawn_enemy 20 12 Basic_Drone enemy_b",
+    "spawn_enemy 22 18 Sniper_Drone enemy_c",
+    "spawn_enemy 16 2 Basic_Drone enemy_d",
+    "create_objective wipe true all_enemies_dead _ \"Eradicate all threats\""
+    ],
+    "hazards": [
+        {
+            "q": 14,
+            "r": 11,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 15,
+            "r": 11,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 13,
+            "r": 11,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 15,
+            "r": 12,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 14,
+            "r": 12,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 15,
+            "r": 10,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 14,
+            "r": 10,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 16,
+            "r": 11,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 16,
+            "r": 10,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 12,
+            "r": 11,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 13,
+            "r": 12,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 13,
+            "r": 10,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 14,
+            "r": 13,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 13,
+            "r": 13,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 15,
+            "r": 9,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 14,
+            "r": 9,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 16,
+            "r": 9,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 12,
+            "r": 12,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 12,
+            "r": 13,
+            "type": 3,
+            "intensity": 1
+        },
+        {
+            "q": 8,
+            "r": 16,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 9,
+            "r": 16,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 7,
+            "r": 16,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 8,
+            "r": 17,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 7,
+            "r": 17,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 8,
+            "r": 15,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 9,
+            "r": 15,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 8,
+            "r": 24,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 9,
+            "r": 24,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 7,
+            "r": 24,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 8,
+            "r": 23,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 7,
+            "r": 23,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 9,
+            "r": 23,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 6,
+            "r": 24,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 6,
+            "r": 23,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 9,
+            "r": 22,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 8,
+            "r": 22,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 7,
+            "r": 22,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 10,
+            "r": 22,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 5,
+            "r": 24,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 9,
+            "r": 21,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 8,
+            "r": 21,
+            "type": 0,
+            "intensity": 1
+        },
+        {
+            "q": 10,
+            "r": 21,
+            "type": 0,
+            "intensity": 1
+        }
+    ],
+    "spawnRadiation": false,
+    "spawnGasGreen": false,
+    "spawnGasYellow": false
+}
