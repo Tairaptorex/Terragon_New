@@ -17666,7 +17666,7 @@
     "# Objectives",
     "spawn_structure 48 19 reactor",
     "spawn_item 48 19 black_box Reactor chip_flag",
-    "spawn_unit 48 19 normal doc_flag \"Dr. Maia\" _ _ _ _ _ _ _ _ _ _ _ _ false",
+    "spawn_unit 48 19 normal doc_flag \"Dylan\" _ _ _ _ _ _ _ _ _ _ _ _ false",
     "spawn_enemy 24 42 Tactic_Drone guard_a",
     "create_objective guard true enemy_dead guard_a \"Destroy the Island's Tactical Droid\"",
     "create_objective chip true extract_item chip_flag \"Retrieve the Black box\"",
